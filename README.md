@@ -20,7 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **Bold** and _Italic_ and `Code` text
 
 ```
-![pic](https://github.com/luodeyu/luodeyu.github.io/pi)
+![pic](https://github.com/luodeyu/luodeyu.github.io/blob/main/1.jpg)
 
 ### Jekyll Themes
 
