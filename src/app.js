@@ -178,7 +178,7 @@
             [n("div", {
                 staticClass: "pass-result"
             },
-            [t._v("研究生用户，入校授权有效！")]), n("md-list", {
+            [t._v("研究生用户，入校授权有效嗎！")]), n("md-list", {
                 staticClass: "pass-list"
             },
             [n("md-list-item", [n("svg", {
