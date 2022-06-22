@@ -178,7 +178,7 @@
             [n("div", {
                 staticClass: "pass-result"
             },
-            [t._v("研究生用户，入校授权有效嗎！")]), n("md-list", {
+            [t._v("研究生用户，入校授权有效！")]), n("md-list", {
                 staticClass: "pass-list"
             },
             [n("md-list-item", [n("svg", {
@@ -529,7 +529,7 @@
         a("9c0c")
     },
     6585 : function(t, e, a) {
-        t.exports = "https://cdn.jsdelivr.net/gh/hly0928/UESTC-IN_others@master/img/qr.4c828820.jpg"
+        t.exports = "img/logo.png"
     },
     "8ad1": function(t, e, a) {},
     "9c0c": function(t, e, a) {},
