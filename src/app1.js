@@ -151,7 +151,7 @@
                     flex: "1"
                 }
             },
-            [t._v("研究生用户，入校授权有效！")]), n("md-button", {
+            [t._v("研究生用户，出校登记成功！")]), n("md-button", {
                 staticClass: "md-icon-button md-primary",
                 on: {
                     click: function(e) {
@@ -178,7 +178,7 @@
             [n("div", {
                 staticClass: "pass-result"
             },
-            [t._v("研究生用户，入校授权有效！")]), n("md-list", {
+            [t._v("研究生用户，出校登记成功！")]), n("md-list", {
                 staticClass: "pass-list"
             },
             [n("md-list-item", [n("svg", {
