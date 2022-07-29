@@ -185,7 +185,7 @@
                 staticClass: "list-icon",
                 attrs: {
                     focusable: "false",
-                    viewBox: "0 0 100 100",
+                    viewBox: "0 0 24 24",
                     "aria-hidden": "true",
                     tabindex: "-1",
                     title: "Person",
