@@ -178,7 +178,7 @@
             [n("div", {
                 staticClass: "pass-result"
             },
-            [t._v("研究生用户，入校授权有效！")]), n("md-list", {
+            [t._v("研究生用户，入校授权有效！")]), n("md-list", {//这里
                 staticClass: "pass-list"
             },
             [n("md-list-item", [n("svg", {
@@ -278,7 +278,7 @@
                 attrs: {
                     src: a("cf05"),
                     alt: "",
-                    onclick: 'if(document.getElementsByClassName("pass-result")[0].innerText == "研究生用户，入校授权有效！")  document.getElementsByClassName("pass-result")[0].innerText = "研究生用户，出校登记成功！"; else document.getElementsByClassName("pass-result")[0].innerText = "研究生用户，入校授权有效！";'
+                    onclick: 'if(document.getElementsByClassName("pass-result")[0].innerText == "研究生用户，入校授权有效！")  document.getElementsByClassName("pass-result")[0].innerText = "研究生用户，出校登记成功！"; else {document.getElementsByClassName("pass-result")[0].innerText = "研究生用户，入校授权有效！",document.getElementsByClassName("pass-result")[0].style.lineHeight="1000px"};'
                 }
             })]) : t._e(), n("div", {
                 staticClass: "input-prompt"
